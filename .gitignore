@@ -1,3 +1,4 @@
 /config/database.yml
 /db/*.sqlite
 .sass-cache/
+/db/production.sqlite3
